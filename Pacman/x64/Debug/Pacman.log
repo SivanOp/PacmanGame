@@ -1,0 +1,24 @@
+﻿  Board.cpp
+  Color.cpp
+  Creature.cpp
+  fruit.cpp
+  Game.cpp
+C:\Users\linoy\OneDrive\שולחן העבודה\לימודים\CPP\Pacman part 3\Pacman part 3\Game.cpp(641,8): warning C4101: 'token': unreferenced local variable
+C:\Users\linoy\OneDrive\שולחן העבודה\לימודים\CPP\Pacman part 3\Pacman part 3\Game.cpp(626,9): warning C4101: 'j': unreferenced local variable
+C:\Users\linoy\OneDrive\שולחן העבודה\לימודים\CPP\Pacman part 3\Pacman part 3\Game.cpp(930,7): warning C4101: 'fileChoice': unreferenced local variable
+  General.cpp
+C:\Users\linoy\OneDrive\שולחן העבודה\לימודים\CPP\Pacman part 3\Pacman part 3\General.cpp(38,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\linoy\OneDrive\שולחן העבודה\לימודים\CPP\Pacman part 3\Pacman part 3\General.cpp(34,6): warning C4101: 'tunnelInd': unreferenced local variable
+  Ghost.cpp
+  main.cpp
+C:\Users\linoy\OneDrive\שולחן העבודה\לימודים\CPP\Pacman part 3\Pacman part 3\main.cpp(7,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\linoy\OneDrive\שולחן העבודה\לימודים\CPP\Pacman part 3\Pacman part 3\main.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Pacman.cpp
+  Position.cpp
+C:\Users\linoy\OneDrive\שולחן העבודה\לימודים\CPP\Pacman part 3\Pacman part 3\Position.cpp(10,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\linoy\OneDrive\שולחן העבודה\לימודים\CPP\Pacman part 3\Pacman part 3\Position.cpp(10,31): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Generating Code...
+C:\Users\linoy\OneDrive\שולחן העבודה\לימודים\CPP\Pacman part 3\Pacman part 3\Position.cpp(51): warning C4715: 'Position::checkCoord': not all control paths return a value
+C:\Users\linoy\OneDrive\שולחן העבודה\לימודים\CPP\Pacman part 3\Pacman part 3\General.cpp(171): warning C4715: 'checkBoardValid': not all control paths return a value
+C:\Users\linoy\OneDrive\שולחן העבודה\לימודים\CPP\Pacman part 3\Pacman part 3\Game.cpp(1042): warning C4715: 'Game::printMenu': not all control paths return a value
+  Pacman.vcxproj -> C:\Users\linoy\OneDrive\שולחן העבודה\לימודים\CPP\Pacman part 3\Pacman part 3\x64\Debug\Pacman.exe

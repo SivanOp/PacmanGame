@@ -1,0 +1,2 @@
+C:\Users\linoy\OneDrive\שולחן העבודה\לימודים\CPP\Pacman part 3\Pacman part 3\x64\Debug\Pacman.exe
+C:\Users\linoy\OneDrive\שולחן העבודה\לימודים\CPP\Pacman part 3\Pacman part 3\x64\Debug\Pacman.pdb

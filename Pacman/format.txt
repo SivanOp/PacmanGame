@@ -1,0 +1,21 @@
+The files are in the following format:
+
+The '@' char represents the pacmanhe initial position of the fruit is written at the beginning of the file 
+The '$' char represents the ghost, and the number that is after the '$' represents the ghost number
+A number between 5-9 in the beginning of the line represents the value of the current fruit
+'A' represents appearence of a new fruit on board, and the numbers that are after 'A' represents the new inital position of the fruit
+'D' represents disappearence of the current fruit 
+(x_x) means pacman died - lost one life,in the res file
+F means pacman finished the current screen
+
+/* NOTE: sarel allowed us to use those declarations in the steps files: */
+PD means that pacman died - lost one life, in the steps file
+PS means that user passed the screen in the steps file
+GO means that game over in the steps file
+
+After every creature there is a number that represents the current direction according to the following:
+0- UP
+1- DOWN
+2- LEFT
+3- RIGHT
+4- STAY
